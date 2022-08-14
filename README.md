@@ -30,5 +30,5 @@
 <br />
 <br />
 
-<!-- [youtube] = https://www.youtube.com/channel/UCDLNjhhr8SiRVTPsM-b52nA
+<!-- 
 [instagram] = https://www.instagram.com/dev_things/ -->
