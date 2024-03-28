@@ -3,7 +3,6 @@
 ## I'm a Software Developer!!
 
 - 🌱 I’m great at Javascript and javascript framework i.e React & Next JS ❤️
-- 🥅 2021 Goals: Contribute more to projects
 - ⚡ Fun fact: I love travelling.
 
 ***
